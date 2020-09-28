@@ -1,0 +1,143 @@
+@charset "UTF-8";
+
+tbody a{
+  text-decoration: none;
+  color:#000000;
+}
+
+a .underline{
+  text-decoration: underline;
+}
+.fa:before {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 18px;
+    margin-right: 0.5em;
+}
+
+/***********************/
+/*  ホーム **/
+/***********************/
+.fa-home:before{
+  content: '\f015';
+}
+.fa-users:before{
+  content: '\f0c0';
+}
+
+.fa-envelope:before{
+  content: '\f0e0';
+}
+.fa-cogs:before{
+  content: '\f085';
+}
+.fa-cog:before{
+  content: '\f013';
+}
+.fa-account_configuration:before{
+  content: '\f2b9';
+}
+.fa-bot_configuration:before{
+  content: '\f0ad';
+}
+
+
+
+
+
+/***********************/
+/*  お友だち情報  **/
+/***********************/
+.fa-user-block:before{
+  content: '\f235';
+  color: #C0C0C0;
+}
+.fa-user-add:before{
+  content: '\f234';
+  color: #000000;
+}
+.fa-operation:before{
+  content: '\f044';
+  color: #0174C8;
+}
+.fa-target:before{
+  content: '\f044';
+
+  color: #0174C8';
+}
+.fa-message:before{
+  content: '\f044';
+  color: #0174C8;
+}
+.fa-autoreplies:before{
+  content: '\f044';
+  color: #0174C8;
+}
+.fa-admin:before{
+  content: '\f044';
+  color: #0174C8;
+}
+.fa-config:before{
+  content: '\f044';
+  color: #0174C8;
+}
+.fa-user:before{
+  content: '\f007';
+  color: #0174C8;
+}
+
+
+/***********************/
+/*  配信リスト        **/
+/***********************/
+.fa-target:before{
+  content: '\f073';
+}
+.fa-pencil:before{
+  content: '\f040';
+}
+
+
+
+
+
+
+
+/***********************/
+/*  共通              **/
+/***********************/
+/* 編集アイコン */
+.fa-edit:before{
+  content: '\f044';
+}
+
+/* リスト */
+.fa-list:before{
+  content: '\f022';
+}
+
+/* ドラフトアイコン */
+.fa-draft:before{
+  content: '\f044';
+  color: #0174C8;
+}
+
+/* アクティブアイコン */
+.fa-active:before{
+  content: '\f044'';
+  color: #0174C8;
+}
+
+/* ヒント */
+.fa-hint:before{
+  content: '\f05a';
+}
+
+.fa-hint{
+  font-size: 9px;
+  color: #808000;
+}
+
+

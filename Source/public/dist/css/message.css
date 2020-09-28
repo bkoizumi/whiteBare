@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+form img.thumb {
+    margin:0 5px 5px 0;
+    max-width:250px;
+    vertical-align:bottom;
+}
